@@ -1,5 +1,4 @@
-# learn-solana-journey
-我的 Solana 零基础学习笔记
+
 # My Solana Learning Path 🚀
 
 这里记录我从零开始学习 Solana 的过程。
