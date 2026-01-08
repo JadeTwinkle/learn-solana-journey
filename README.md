@@ -1,2 +1,12 @@
 # learn-solana-journey
 我的 Solana 零基础学习笔记
+# My Solana Learning Path 🚀
+
+这里记录我从零开始学习 Solana 的过程。
+
+## 📅 学习日志
+
+### 2024-xx-xx: 初识 Solana
+- 了解了 Solana 不仅仅是货币，还是一个类似 iOS 的高性能操作系统。
+- 知道了它和比特币的区别：比特币是黄金（存钱），Solana 是 Visa（支付/应用）。
+- 核心技术：PoH (历史证明)，像拿着号码牌过安检，不用排队，所以速度快。
